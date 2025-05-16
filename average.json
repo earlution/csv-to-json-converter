@@ -1,0 +1,50 @@
+[
+    {
+        "First Name": "John",
+        "Last Name": "Smith",
+        "Email": "john.smith@example.com",
+        "Age": 35,
+        "Department": "Marketing",
+        "Salary": 65000
+    },
+    {
+        "First Name": "Jane",
+        "Last Name": "Doe",
+        "Email": "jane.doe@example.com",
+        "Age": 28,
+        "Department": "Engineering",
+        "Salary": 78000
+    },
+    {
+        "First Name": "Robert",
+        "Last Name": "Johnson",
+        "Email": "robert.j@example.com",
+        "Age": 42,
+        "Department": "Finance",
+        "Salary": 82000
+    },
+    {
+        "First Name": "Emily",
+        "Last Name": "Williams",
+        "Email": "emily.w@example.com",
+        "Age": 31,
+        "Department": "Human Resources",
+        "Salary": 58000
+    },
+    {
+        "First Name": null,
+        "Last Name": "Brown",
+        "Email": "michael.b@example.com",
+        "Age": 39,
+        "Department": "Sales",
+        "Salary": 72000
+    },
+    {
+        "First Name": "Sarah",
+        "Last Name": "Miller",
+        "Email": null,
+        "Age": 27,
+        "Department": "Engineering",
+        "Salary": 76000
+    }
+]

@@ -1,0 +1,22 @@
+[
+    [
+        "Name",
+        "Age",
+        "City"
+    ],
+    [
+        "John",
+        30,
+        "New York"
+    ],
+    [
+        "Sarah",
+        25,
+        "Boston"
+    ],
+    [
+        "Mike",
+        45,
+        "Chicago"
+    ]
+]

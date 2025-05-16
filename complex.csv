@@ -1,0 +1,7 @@
+Order ID,Customer ID,Product Name,Quantity,Unit Price,Order Date,Shipping Address,Payment Status,Tracking Number,Discount,Tax Rate,Delivery Notes
+10045,"CUST-1001","Premium Wireless Headphones",2,129.99,"2023-05-15","123 Main St, Apt 4B, New York, NY 10001","Paid","TRK-7890-XYZ",15.5%,8.875%,"Leave at door, no signature required"
+10046,"CUST-1002","Smart Watch Series 5",1,249.99,"2023-05-16","456 Oak Ave, Chicago, IL 60611","Pending","",0%,10.25%,"Call customer before delivery"
+10047,"CUST-1001","USB-C Fast Charging Cable",3,19.99,"2023-05-16","123 Main St, Apt 4B, New York, NY 10001","Paid","TRK-7891-ABC",0%,8.875%,""
+10048,"CUST-1003","Laptop Backpack - Waterproof",1,79.99,"2023-05-17","789 Pine St, San Francisco, CA 94109","Failed","",5%,8.5%,"Signature required"
+10049,"CUST-1004","Bluetooth Speaker - Waterproof",1,89.99,"2023-05-18","101 Maple Dr, Austin, TX 78701","Paid","TRK-7892-DEF",20%,6.25%,"Deliver to back entrance"
+10050,,"Wireless Mouse - Ergonomic",2,45.99,"2023-05-18","","Paid","TRK-7893-GHI",10%,9.5%,"N/A"

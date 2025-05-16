@@ -1,0 +1,34 @@
+[
+    {
+        "ID": "1",
+        "Item": "Keyboard",
+        "Quantity": "5",
+        "Price": "29.99",
+        "In Stock": "Yes",
+        "Rating": "4.5"
+    },
+    {
+        "ID": "2",
+        "Item": "Mouse",
+        "Quantity": "3",
+        "Price": "19.99",
+        "In Stock": "No",
+        "Rating": "4.2"
+    },
+    {
+        "ID": "3",
+        "Item": "Monitor",
+        "Quantity": "1",
+        "Price": "149.99",
+        "In Stock": "Yes",
+        "Rating": "4.8"
+    },
+    {
+        "ID": "4",
+        "Item": "Laptop",
+        "Quantity": "0",
+        "Price": "899.99",
+        "In Stock": "No",
+        "Rating": "4.7"
+    }
+]

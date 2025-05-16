@@ -1,0 +1,7 @@
+First Name,Last Name,Email,Age,Department,Salary
+John,Smith,john.smith@example.com,35,Marketing,65000
+Jane,Doe,jane.doe@example.com,28,Engineering,78000
+Robert,Johnson,robert.j@example.com,42,Finance,82000
+Emily,Williams,emily.w@example.com,31,Human Resources,58000
+,Brown,michael.b@example.com,39,Sales,72000
+Sarah,Miller,,27,Engineering,76000
